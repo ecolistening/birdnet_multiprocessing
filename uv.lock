@@ -80,7 +80,7 @@ wheels = [
 ]
 
 [[package]]
-name = "birdnet-multiprocessing"
+name = "birdnet-dask"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
